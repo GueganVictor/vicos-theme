@@ -4,7 +4,7 @@
     "description": "Dark Sasuke theme for VSCode",
     "publisher": "vguegan",
     "repository": {
-        "url": ""
+        "url": "https://github.com/GueganVictor/vicos-theme"
     },
     "version": "1.0.0",
     "engines": {
