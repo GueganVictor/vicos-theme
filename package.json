@@ -1,0 +1,25 @@
+{
+    "name": "vicos-theme",
+    "displayName": "Vicos' Theme",
+    "description": "Dark Sasuke theme for VSCode",
+    "publisher": "vguegan",
+    "repository": {
+        "url": ""
+    },
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vicos Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/vicos-dark-theme.json"
+            }
+        ]
+    }
+}
